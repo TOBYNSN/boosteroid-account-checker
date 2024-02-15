@@ -13,21 +13,21 @@ How to Use:
 
 1. Clone the Boosteroid Account Checker repository from GitHub:
 
-git clone https://github.com/TOBYNSN/boosteroid-account-checker
+`git clone https://github.com/TOBYNSN/boosteroid-account-checker`
 
 2. Navigate to the Boosteroid Account Checker directory:
 
-cd boosteroid-account-checker
+`cd boosteroid-account-checker`
 
 3. Install the required Python packages:
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 4. Create a text file named accounts.txt in the same directory as the script, and add the email:password combinations you want to check, one per line.
 
 5. Run the Boosteroid Account Checker script using the following command:
 
-python boosteroid_account_checker.py  
+`python boosteroid_account_checker.py`
 
 This will launch the script and start checking the validity of the accounts.
 
