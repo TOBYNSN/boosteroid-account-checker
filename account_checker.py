@@ -47,7 +47,7 @@ def save_accounts(good_accounts, bad_accounts, output_folder="output"):
             bad_file.write(f"{email}:{password}\n")
 
 if __name__ == "__main__":
-    accounts_file = "C:\\Users\\tobia\\Desktop\\wah\\accounts.txt"
+    accounts_file = "<path_to_accounts_file>"
     good_accounts, bad_accounts = check_accounts(accounts_file)
     save_accounts(good_accounts, bad_accounts)
     print(f"Checked {len(good_accounts) + len(bad_accounts)} accounts.")
