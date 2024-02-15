@@ -10,7 +10,7 @@ How to Use:
 
 1. Clone the Boosteroid Account Checker repository from GitHub:
 
-git clone https://github.com/yourusername/boosteroid-account-checker.git
+git clone https://github.com/TOBYNSN/boosteroid-account-checker
 
 2. Navigate to the Boosteroid Account Checker directory:
 
