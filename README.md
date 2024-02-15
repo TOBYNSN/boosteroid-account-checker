@@ -1,8 +1,9 @@
-##Boosteroid Account Checker 🚀
+Boosteroid Account Checker 🚀
 
 Boosteroid Account Checker is a Python script designed to check the validity of email and password combinations for Boosteroid.com accounts. The script reads a list of email:password combinations from a text file (accounts.txt), attempts to log in to each account, and then categorizes the accounts as either "valid" or "invalid" based on the login response. The script finally saves the valid and invalid accounts to separate text files in an "output" folder.
 
-before starting script Replace <path_to_accounts_file> with the path to your accounts.txt in account_checker.py 
+before starting script Replace <path_to_accounts_file> with the path to your accounts.txt in account_checker.py
+
 
 Features:
 
@@ -33,6 +34,9 @@ This will launch the script and start checking the validity of the accounts.
 6. Once the script finishes running, it will create two text files in an "output" folder: good_accounts.txt and bad_accounts.txt.
 The good_accounts.txt file will contain the valid email:password
 combinations,and the bad_accounts.txt file will contain the invalid email:password combinations.
+
+<img width="595" alt="image" src="https://github.com/TOBYNSN/boosteroid-account-checker/assets/68747036/50720cdb-91ab-4575-96d6-95bd5df794f0">
+
 
 License:
 
