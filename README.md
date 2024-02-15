@@ -41,5 +41,7 @@ License:
 Disclaimer:
 
 ● The Boosteroid Account Checker script is licensed under the GNU General Public License version 3 (GPLv3).
+
 ● This script is intended for educational purposes only and is not intended for any mischievous use.
+
 ● I am not responsible for what you do with this script. Please use it responsibly and within the boundaries of the law.
